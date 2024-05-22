@@ -1,7 +1,7 @@
 #include "src/storage/FlashStorageHandler.h"
 #include "src/config/ConfigHandler.h"
 #include "src/ble/BLEHandler.h"
-#include "src/audio/MicHandler.h"
+#include "src/mic/MicHandler.h"
 #include "src/status/StatusManager.h"
 
 FlashStorageHandler storageHandler;

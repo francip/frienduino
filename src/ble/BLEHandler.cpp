@@ -1,5 +1,5 @@
 #include "BLEHandler.h"
-#include "../audio/CodecType.h"
+#include "../mic/CodecType.h"
 
 #include <WiFiNINA.h>
 
