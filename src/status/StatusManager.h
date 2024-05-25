@@ -3,7 +3,7 @@
 
 #include "../config/ConfigHandler.h"
 #include "../ble/BLEHandler.h"
-#include "../audio/MicHandler.h"
+#include "../mic/MicHandler.h"
 
 enum DeviceStatus
 {
