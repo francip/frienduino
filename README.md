@@ -33,5 +33,5 @@ arduino-cli lib install "WiFiNINA"
 
 ```
 arduino-cli compile -b arduino:mbed_nano:nanorp2040connect -v
-arduino-cli upload -b arduino:mbed_nano:nanorp2040connect -p COM3 -v
+arduino-cli upload -b arduino:mbed_nano:nanorp2040connect -p COM5 -v
 ```
